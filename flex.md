@@ -1,5 +1,3 @@
-Here's a clear, visual-friendly explanation of **Flexbox** focusing exactly on the properties you asked about.
-
 ### 1. Flex Container vs Flex Items
 
 - **Flex Container** → the **parent** element  
@@ -176,4 +174,3 @@ Try resizing the browser window — you'll see:
 
 This single pattern is used for navbars, tag lists, button groups, feature cards, etc.
 
-Let me know if you want to see variations (e.g. vertical centering hero, card grid with wrap, etc.)! 🚀
