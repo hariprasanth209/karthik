@@ -299,17 +299,6 @@ let result = age > 18 ? "Adult" : "Minor";
 
 ---
 
-##  Nullish Coalescing (Modern)
-
-Returns right side only if left is null or undefined
-
-```js
-let name = null;
-let result = name ?? "Guest";
-```
-
----
-
 # Template Literals
 
 Used with backticks `` ` ``
@@ -392,4 +381,5 @@ In Node.js and modern React:
 
 ---
 ---
+
 
