@@ -360,26 +360,5 @@ Without strict → JS creates global variable automatically (dangerous).
 
 ---
 
-#  Real MERN Insight
-
-In Node.js and modern React:
-
-* Strict mode is enabled automatically in modules
-* Always use `const` / `let`
-* Always use `===`
-* Avoid implicit coercion confusion
-
----
-
-#  You Must Be Able To Answer
-
-1. Why `let` is better than `var`
-2. Difference between primitive & reference
-3. What is type coercion
-4. Difference between `==` and `===`
-5. Why strict mode matters
-
----
----
 
 
