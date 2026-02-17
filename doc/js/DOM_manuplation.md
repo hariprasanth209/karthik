@@ -351,9 +351,8 @@ You must understand:
 
 ---
 
-#  Interview-Level Understanding
+#  Questionz
 
-You should clearly explain:
 
 1. Difference between querySelector and getElementById
 2. What is event bubbling?
